@@ -1,4 +1,4 @@
-ANDROID_NDK ?= /opt/android-sdk-linux_x86/android-ndk-r16b
+ANDROID_NDK := /home/tuijian/android-ndk-r21b-linux/android-ndk-r21b
 
 JAR_DIR := ../app/libs
 JNI_DIR := ../app/src/main/jniLibs
